@@ -16,8 +16,8 @@ This repository contains an **Excel-based Sales Dashboard** that provides a comp
 ![Super Store Sales Dashboard](./Excel_endtoend_dashboard.png)  
 
 ## 📂 Files Included  
- Excel_endtoend_dashboard.png 
- Superstore Data.xlsx
+ ![Excel_endtoend_dashboard.png](Excel_endtoend_dashboard.png)
+ ![Superstore Data.xlsx](https://github.com/devendrapratapsinghsolanki/superstore-sales-dashboard/blob/b9e8dd7d81a171431a097f0894d5a34c964b22d8/Superstore%20Data.xlsx)
 
 ## 📊 Insights from Dashboard  
 - **New York City** generated the highest sales (₹6,54,439).  
@@ -33,5 +33,5 @@ This repository contains an **Excel-based Sales Dashboard** that provides a comp
 Feel free to fork this repo, raise issues, or contribute by adding more analytics dashboards.  
 
 ## 📬 Contact  
-For any queries or collaboration, reach out via [LinkedIn]((https://www.linkedin.com/in/devendra-pratap-singh-solanki-05b9932a7/)).  
+For any queries or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/devendra-pratap-singh-solanki-05b9932a7/).  
 
