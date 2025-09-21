@@ -15,10 +15,6 @@ This repository contains an **Excel-based Sales Dashboard** that provides a comp
 ## 📷 Dashboard Preview  
 ![Super Store Sales Dashboard](./Excel_endtoend_dashboard.png)  
 
-## 📂 Files Included  
- ![Excel_endtoend_dashboard.png](Excel_endtoend_dashboard.png)
- ![Superstore Data.xlsx](https://github.com/devendrapratapsinghsolanki/superstore-sales-dashboard/blob/b9e8dd7d81a171431a097f0894d5a34c964b22d8/Superstore%20Data.xlsx)
-
 ## 📊 Insights from Dashboard  
 - **New York City** generated the highest sales (₹6,54,439).  
 - **Standard Class shipping** contributed the largest share (58%).  
